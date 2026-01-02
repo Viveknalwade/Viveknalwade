@@ -85,8 +85,11 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=viveknalwade&show_icons=true&locale=en&layout=compact" alt="viveknalwade" /></p>
+<p align="center">
+    <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=viveknalwade&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+</p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=viveknalwade&show_icons=true&locale=en&layout=compact" alt="viveknalwade" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viveknalwade&show_icons=true&locale=en" alt="viveknalwade" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viveknalwade&" alt="viveknalwade" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viveknalwade&" alt="viveknalwade" /></p> -->
